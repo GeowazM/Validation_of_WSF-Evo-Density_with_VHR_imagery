@@ -1,7 +1,7 @@
 # Scripts for Google Earth Engine
 
-The following scripts were created to perform a stratified random sampling and validate the WSF-Evo-Density layer provided by DLR [Smart Cities und Raumentwicklung
-] (https://www.dlr.de/eoc/de/desktopdefault.aspx/tabid-11925/20985_read-48802/).
+The following scripts were created to perform a stratified random sampling and validate the WSF-Evo-Density layer provided by DLR ([Team: Smart Cities and Spatial Development](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-11925/20985_read-48802/))
+
 
 This directory contain following scripts:
   
