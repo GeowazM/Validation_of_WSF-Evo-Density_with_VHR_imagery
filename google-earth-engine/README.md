@@ -10,15 +10,16 @@ This directory contain following scripts:
    * create grid vector file out of a polygon vector file
   
   ##### II. calcSSCindex.js
-   * calculate the normalized SSC index after Palacios-Lopez et al. (2019)
+   * calculate the SSC index after Palacios-Lopez et al. (2019)
+   * normalize the SSC index
     
   ##### III. createSSCclass-and-runStratifiedRandomSampling.js
-   * classify the normalized SSC index
+   * classify the normalized SSC index to low, medium and high
    * add the Köppen-Geiger climate classification after Kottek et al. (2006) to the vector file
    * run a stratified random sampling
     
   ##### IV. addRstval2Vct.js
-   * add the values of a raster binary file to a vector grid file
+   * add values of a raster binary file to a vector grid file
   
   
  
