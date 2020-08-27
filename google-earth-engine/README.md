@@ -5,19 +5,19 @@ The following scripts were created to perform a stratified random sampling and v
 
 This directory contain following scripts:
   
-  #### a) createVctGrid.js
+  ##### I. createVctGrid.js
    * gridding a vector file
    * create grid vector file out of a polygon vector file
   
-  #### b) calcSSCindex.js
+  ##### II. calcSSCindex.js
    * calculate the normalized SSC index after Palacios-Lopez et al. (2019)
     
-  #### c) createSSCclass-and-runStratifiedRandomSampling.js
+  ##### III. createSSCclass-and-runStratifiedRandomSampling.js
    * classify the normalized SSC index
    * add the Köppen-Geiger climate classification after Kottek et al. (2006) to the vector file
    * run a stratified random sampling
     
-  #### d) addRstval2Vct.js
+  ##### IV. addRstval2Vct.js
    * add the values of a raster binary file to a vector grid file
   
   
