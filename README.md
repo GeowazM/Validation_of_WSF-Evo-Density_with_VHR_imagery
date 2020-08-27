@@ -1,4 +1,4 @@
-# Validation_of_WSF-Evo-Density_with_VHR_imagery
+# Validation of WSF-Evo-Density with VHR imagery
 A collection of scripts to 
   - calculate the SSC index and class, 
   - implement the Köppen-Geiger climate classification into vector data
