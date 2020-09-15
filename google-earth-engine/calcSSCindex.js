@@ -275,7 +275,7 @@ var ssc_div3 = updatedFeature.getNumber('gee_maxArea').divide(updatedFeature.get
 
 // multiply
 var ssc_p1 = ssc_div1.multiply(ssc_div2);
-var ssc = ssc_p1.multiply(ssc_p1);
+var ssc = ssc_p1.multiply(ssc_div3);
 var ssc_index = ee.Dictionary({gee_ssc_index: ssc});
 var x = ee.Feature(updatedFeature.set(ssc_index));                                                          // add SSC index to attribute table (property)
 
